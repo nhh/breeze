@@ -1,0 +1,20 @@
+{
+  "name": "breeze-framework",
+  "version": "0.0.33",
+  "types": "dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nhh/breeze-framework.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "@types/express": "^4.16.0"
+  },
+  "devDependencies": {
+    "@types/jest": "^23.3.0",
+    "jest": "^23.4.1",
+    "ts-jest": "^23.0.1",
+    "typescript": "^2.9.2"
+  }
+}

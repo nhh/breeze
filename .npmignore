@@ -1,0 +1,13 @@
+tsconfig.json
+.travis.yml
+test/
+.npmignore
+.nvmrc
+breeze-framework-*.tgz
+.idea
+.editorconfig
+.jest.config.js
+tslint.json
+README.md
+jest.config.js
+src/
